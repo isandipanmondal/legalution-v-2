@@ -1,0 +1,2395 @@
+@media only screen and (max-width: 2500px) and (min-width: 1600px) {
+.sear-main-box {
+    top: 5px;
+    left: 6px;
+    display: none;
+    position: relative;
+    width: 300px;
+}
+
+.gst-holder {
+    top: 70px;
+    right: 74px;
+    width: 400px;
+}
+
+.msme-banner {
+    top: 70px;
+    right: 3px;
+    width: 400px;
+}
+}
+@media only screen and (max-width: 1599px) and (min-width: 1200px) {
+.sear-main-box {
+    top: 3px;
+    left: -13px;
+    display: none;
+    position: relative;
+    width: 300px;
+}
+}
+
+/* ================ */
+
+@media only screen and (max-width: 1400px){
+  .car_text h1 {
+    font-size: 26px;
+}
+.car_text h5 {
+  font-size: 20px;
+  margin-left: 0px;
+}
+.egalution-banner-section img.egalution-bannerimg {
+  max-width: 340px;
+  margin-right: 20px;
+}
+.car_text p {
+  font-size: 16px;
+  margin-left: 0px;
+}
+.car_text ul {
+  font-size: 16px;
+  padding-bottom: 7px;
+}
+}
+
+/* ================ */
+
+@media only screen and (max-width: 1199px){
+  .sear-main-box {
+  top: -44px;
+  left: -55px;
+  display: none;
+  position: relative;
+  width: 300px;
+}
+.procedure-td-mark_img-holder {
+    height: 29px;
+}
+}
+@media only screen  and (min-width: 1025px ) and ( max-width: 1199px  ){
+  #topmenu {
+    font-size: 14px;
+}
+.color_change {
+    /* margin: -29px 533px; */
+}
+}
+
+
+
+@media only screen and (max-width: 1024px){
+  .phone {
+    text-align: center;
+}
+  /* .color_change {
+    color: #f5ecec;
+   margin: -29px 471px;
+} */
+    .gst-holder{
+        left:346px;
+    }
+    .msme-banner{
+        left:358px;
+    }
+    .msme-banner h1{
+        font-size:18px;
+    }
+    .gst-holder {
+    right: 29px;
+}
+    .gst-holder h1{
+        font-size:18px;
+    }
+.carousel-inner img {
+    width: 100%;
+}
+.carousel-inner .car_text {
+    top: 82px;
+    right: 0;
+}
+  .car_text h1 {
+    font-size: 21px;
+}
+.car_text h5 {
+    font-size: 14px;
+}
+  .slider_text b {
+    font-size: 20px;
+}
+/* .car_text ul {
+    margin-left: 4px;
+    font-size: 9px;
+    padding-top: 0px;
+} */
+.egalution-banner-section img.egalution-bannerimg {
+  max-width: 260px;
+  margin-right: 15px;
+}
+/* .car_text p {
+    font-size: 12px;
+    padding-top: 1px;
+} */
+.car_text .on_rt{
+  text-align: left;
+}
+.on_rt-img {
+   text-align: left;
+}
+  .slider_text b {
+    font-size: 20px;
+}
+.egalution-banner-section .on_rt-img img {
+  width: 100px;
+}
+.car_text ul {
+  font-size: 13px;
+}
+.car_text ul li{
+  padding-bottom: 6px;
+}
+.car_text ul li span {
+  vertical-align: top;
+  margin-top: 2px;
+}
+
+ .item{
+  padding: 0px;
+ }
+ #topmenu{
+  font-size: 14px;
+ }
+ .english {
+    margin-left: 147px;
+    float: none;
+}
+.english span {
+    margin-bottom: 0px;
+    margin-top: -8px;
+}
+.whatapps {
+    color: #000000;
+    padding: 0;
+    margin-top: -6px;
+    position: absolute;
+    width: 100%;
+    padding-right: 10px;
+    right: 64px;
+}
+.sear-main-box {
+    top: -43px;
+    left: -55px;
+}
+.copyright {
+    margin-left: 111px;
+}
+.t-s{
+margin-right: 152px;
+}
+
+/* ********about us ***********/
+
+.diverse_People h2 { 
+    font-size: 23px;   
+}
+.ideology_img{
+  width: 100%;
+}
+#footer{
+  padding-left: 67px; 
+}
+.sub_footer{
+   padding-left: 56px; 
+}
+/* ********gst ***********/
+.gst_banner-text{
+  font-size: 30px;
+}
+.basic_bacground h4 {
+    font-size: 28px;
+}
+.bg-steel .card-body {
+    padding: 0 10px;
+}
+.basic_bacground {
+    border-radius: 100%;
+    padding: 28px 10px;
+}
+/* ================== 22-8-20 ====================*/
+/* ********td-mark ***********/
+ .tab-menu ul li a {  
+    padding: 5px 11px;
+    font-size: 13px;
+}
+.td-mark-rg_form .td-mark_from-text {
+    font-size: 21px;
+}
+.procedure-td-mark_head h2 {
+    font-size: 21px;
+}
+.procedure-td-mark_img-holder {
+    height: 30px;
+}
+.wht-can-reg-td-mark_item {
+    padding-top: 0;
+}
+.td-mark-rg_head .img-holder {
+    height: 145px;
+}
+.from-item-1 .form-control {
+    width: 57%;
+}
+
+/******* fssai *********/
+.pane22-head h3{
+  font-size: 23px;
+}
+.apeda-catagory-box{
+  height: 200px;
+}
+.ice-license-img .img-holder {
+    height: 166px;
+}
+.ice-whn-code h2 {
+    font-size: 27px;
+}
+.iso_from{
+ width: 100%;
+}
+.iso-banner-item h1 {
+    font-size: 36px;
+}
+}
+
+@media only screen and (max-width: 991px){
+  .color_change {
+    color: #f5ecec;
+   /*  margin: -29px 460px; */
+}
+#topmenu li a {
+    padding: 5px 2px;
+    font-size: 11px;  
+}
+.phone , .phone i{
+  font-size: 12px;
+  margin-top: 4px;
+}
+.english {
+    /* margin-left: 129px; */
+    font-size: 12px;
+    margin-top: 8px;
+}
+.english span {
+    margin-bottom: 0px;
+    margin-top: -8px;
+}
+.Confident{
+  margin-left: 19px;
+}
+.Confident h3{
+  font-size: 23px;
+}
+.Confident p{
+  font-size:14px;
+}
+.fnt_size{
+  font-size: 14px;
+}
+.whatapps {
+    color: #000000;
+    padding: 0;
+    margin-top: -6px;
+    position: absolute;
+    width: 100%;
+    padding-right: 10px;
+    right: 0px;
+}
+.sear-main-box {
+    top: -43px;
+    left: -138px;
+}
+
+.egalution-banner-section img.egalution-bannerimg {
+  max-width: 200px;
+  margin-right: 12px;
+}
+
+}
+
+
+@media only screen  and (max-width: 980px ) and ( min-width: 768px  ) {
+    .td-mark-rg_title{
+        padding-top:15px;
+    }
+    .tab-menu ul li a {
+    padding: 5px 45px;
+}
+    .odr{
+        order:-1;
+    }
+    .td-mark-rg_head .img-holder {
+    height: 293px;
+    width: 100%;
+}
+ .iso-banner-item {
+    text-align: center;
+}
+
+.phone { 
+  text-align: center;
+   
+}
+.color_change {
+    /* margin: -29px 311px; */
+}
+  .carousel-inner img {
+    width: 100%;
+}
+  .owl-nav {
+    top: 28%;
+}
+   .carousel-inner .car_text {
+    top: 44px;
+    left: 261px;
+}
+  .car_text h1 {
+    font-size: 20px;
+}
+/* .car_text h5 {
+    font-size: 11px;
+}
+.car_text ul {
+    margin-left: 4px;
+    font-size: 6px;
+    padding-top: 0px;
+}
+.car_text p {
+    font-size: 10px;
+    padding-top: 0px;
+} */
+
+  .whatapps {
+    margin-left: -69px;
+}
+.sear-main-box {
+    top: -42px;
+    left: -52px;
+}
+
+.sear-main-box {
+    width: 213px;
+}
+.copyright {
+    margin-left: 53px;
+    text-align: center;
+}
+.t-s {
+    margin-right: 126px;
+}
+  .basic_bacground {
+    width: 16%;
+}
+.basic_bacground h4 {
+    font-size: 34px;
+}
+  .txtprt2{
+   font-size: 14px;
+  }
+  .slider_text b{
+    font-size: 20px;
+  }
+  #topband {
+    background-color: #000;
+    height: 100%;
+}
+#topmenu{
+    font-size: 12px;
+    text-align: center;
+  }
+#topmenu li {
+    display: inline;
+    float: none;
+}
+#topmenu li a{
+    padding: 5px;
+    
+}
+
+.english {
+   text-align: center;
+    margin: 0 324px;
+}
+.english span {
+    margin-bottom: 0px;
+    margin-top: -7px;
+}
+.col-sm-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+ #self3_ch.call-back_button {
+    padding: 5px 10px;
+    margin-top: -2px;
+}
+ .call-back_button {
+    padding: 5px 10px;
+    margin-top: 0px;
+}
+.pad_none{
+padding: 0px;
+}
+/* ********about us ***********/
+.diverse_People{
+  padding: 0;
+}
+.diverse_People p{
+  font-size: 11px;  
+}
+.ideology{
+  margin:0;
+}
+.ideology p{
+  font-size: 14px;
+}
+.ideology_img {
+    max-width: 100%;
+}
+.we_help{
+  margin:0;
+}
+.we_help h4 {
+   font-size: 21px;
+}
+.we_help p{
+  font-size: 12px;
+}
+.making_it blockquote h3 {
+    font-size: 18px;
+}
+#footer{
+  padding-left: 48px; 
+}
+.sub_footer{
+   padding-left: 16px; 
+}
+.font_size{
+  font-size: 18px;
+}
+.greatest_idea blockquote h3 {
+    font-size: 19px;
+}
+.prg_font{
+    font-size: 12px;
+}
+.our-valued_customer h3, .technicals h3, .greatest_idea h3, .making_it h3{
+  font-size: 19px;
+}
+#self3{
+  padding: 40px 15px;
+}
+.card-body .btn1 {
+    width: 162px;
+}
+.card-body .btn2 {
+    width: 162px;
+}
+#self2_ch input[type=text], select {
+    margin-top: 5px;
+}
+.you_pay{
+    font-size: 18px;
+}
+.you_pay h4{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.from_width {
+    width: 50%;
+    margin-bottom: 30px;
+}
+.card_margin-top{
+  margin-top: 40px;
+}
+.gst_banner-text {
+    font-size: 22px;
+}
+.total_cased{
+height: 100%;
+}
+.sticky ul li a {
+  font-size: 14px;
+}
+.sticky .navbar-brand img{
+   margin-left: 25px;
+ }
+ /* ================== 22-8-20 ====================*/
+ /* ********td-mark ***********/
+ .fees-td-mark-bg {
+    height: 111px;
+}
+ .td-mark-rg_form{
+  padding-top: 40px;
+ }
+ .td-mark_btn {
+    width: 100%;
+}
+.procedure-td-mark_img {
+    transform: rotate(0deg);
+    margin-top: 0;
+}
+.procedure-td-mark_img img {
+    max-width: 100%;
+}
+.td-mark_document-outter {
+    padding: 63px 0;
+}
+.procedure-td-mark_list {
+    padding: 32px 0;
+}
+.td-mark_document p {
+    text-align: justify;
+}
+.td-mark_document h2 {
+    font-size: 21px;
+    text-align: center;
+}
+.benefit-td-mark_head h2 {
+    font-size: 21px;
+}
+.benefit-td-mark_list-1 h3{
+    text-align: center;
+}
+.benefit-td-mark_list-1 p {
+    text-align: center;
+}
+.procedure-td-mark_list-1 h3{
+   text-align: center;
+   padding-top: 10px;
+}
+.procedure-td-mark_list-1 p{
+  text-align: center;
+}
+.wht-can-reg-td-mark_head h2 {
+    font-size: 21px;
+    text-align: center;
+}
+.wht-can-reg-td-mark_item h3 {
+    text-align: center;
+}
+.wht-can-reg-td-mark_item p{
+  text-align: center;
+}
+.resposv_symbol {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.left_bodr{
+  border-left: 0;
+}
+.basic_bacground h4 {
+    font-size: 23px;
+}
+.m-t{
+  margin-top: 10px;
+}
+.procedure-td-mark_list-1{
+  flex-direction: column;
+}
+.procedure-td-mark_img-holder{
+   margin: 0 auto;
+}
+.procedure-td-mark_img-holder {
+    max-width: 37px;
+}
+.td-mark-item_img-holder{
+  margin: 0 auto 10px;
+}
+.wht-can-reg-td-mark_item{
+  flex-direction: column;
+}
+/******* fssai *********/
+.fssai_img{
+  margin-top: 10px;
+}
+.highlight-sec{
+  text-align: center;
+}
+.pane22-head h3{
+  font-size: 23px;
+}
+.apeda-catagory-box {
+    height: 154px;
+}
+.apeda-reg-process_1 , .apeda-reg-process_3{
+    justify-content: center;
+}
+.prm-fees{
+  transform: none;
+}
+.confusd_frm {
+    max-width: 100%;
+}
+.ice_img {
+    margin-top: 15px;
+    height: 100%;
+}
+.ice-license-img .img-holder {
+    height: 187px;
+}
+.req1 input[type="checkbox"] + label:before {
+    width: 28px;
+}
+.req2 input[type="checkbox"] + label:before {
+    width: 28px;
+}
+.req3 input[type="checkbox"] + label:before {
+    width: 33px;
+}
+}
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+.desktop{
+  display: none;
+}
+
+.mobile{
+  display: block;
+  max-width: 280px;
+  margin: 0 auto;
+}
+
+.slider_text .img-bg .desktop{
+  display: none !important;
+}
+
+.slider_text .img-bg .mobile{
+  display: block !important;
+  max-width: 280px;
+  margin: 0 auto;
+}
+.choose .mobile{
+   display: block !important;
+   width: 100%;
+}
+
+.resolve_your .mobile{
+  max-width: 100%;
+}
+#banner .mobile{
+  max-width: 100%;
+}
+.dsc-baner .mobile{
+  max-width: 90%;
+}
+.DSC_ins .mobile{
+  width: 100%;
+}
+
+.rti .mobile{
+ max-width: 100%;
+}
+
+.gst-banner .mobile{
+  max-width: 100%;
+}
+.msme_banner .mobile{
+  max-width: 100%;
+}
+
+
+    .odr{
+        order:-1;
+}
+  .color_change {
+    margin: 0;
+} 
+  .tab-menu ul li {
+    width: 100%;
+    text-align: center;
+}
+  .iec-whn-req1 {
+    text-align: left;
+}
+  .fssai_btn {
+    padding: 5px 55px !important;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+  .step-2{
+    order: 1;
+    padding-top: 15px;
+  }
+  .step-p-2{
+    order: 1;
+  }
+  .step-4{
+    order: 1;
+  }
+  .step-p-4{
+    order: 1;
+  }
+  .iso-banner_form {
+    padding: 0;
+    padding-bottom: 40px;
+}
+  .iso-banner-item {
+    padding-top: 40px;
+}
+  .iso-banner-item {
+    text-align: center;
+}
+  .carousel-inner img {
+    width: 100%;
+}
+  .carousel-inner .car_text {
+    position: static;
+    background-color: #dadee1;
+    min-height: 170px;
+    margin-top: -26px;
+    padding-left: 20px;
+}
+  
+  /* .car_text h1 {
+    font-size: 22px;
+} */
+.car_text h5 {
+    font-size: 11px;
+}
+.car_text h1 {
+  font-size: 16px;
+}
+.car_text ul {
+  padding-top: 4px;
+}
+/* .car_text ul {
+    margin-left: 15px;
+    font-size: 6px;
+    padding-top: 0px;
+}
+.car_text p {
+    font-size: 10px;
+    padding-top: 0px;
+} */
+
+  #topband {
+    background-color: #000;
+    height: 100%;
+}
+.english {
+    /* text-align: right; */
+    padding: 3px 0px 10px 0px !important;
+    float: none;
+    margin: 0 221px ;
+}
+.phone {
+    text-align: center;
+}
+
+.p-4 {
+    padding-top: 10px;
+}
+
+
+#self2_ch {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.text-color{
+  font-size: 15px;
+}
+#footer ul>li {
+  font-size: 15px;
+}
+
+
+.pad img {
+  width: 100%;
+}
+
+.bt_grp {
+  width: 50%;
+}
+
+.button_grup{
+ margin-bottom:40px;
+ display: inline-block;
+}
+
+.pad a img {
+    width: 100%;
+}
+
+
+  #topmenu{
+  font-size: 12px;
+  text-align: center;
+}
+ #topmenu li {
+  display: inline;
+  float: none;
+}
+#topmenu li a{
+  padding: 5px;
+  
+} 
+  
+ 
+.english span {
+    margin-bottom: 0px;
+    margin-top: -6px;
+}
+.whatapps {
+    margin-left: -21px;
+    margin-top: -7px;
+    padding: 0;
+    z-index: 1;
+}
+
+.sear-main-box {
+    top: -44px;
+    left: -110px;
+    display: none;
+    position: relative;
+    width: 228px;
+}
+.t-s{
+  margin-right: 0;
+}
+#owl-two .owl-nav button.owl-prev {  
+    left: -15px;  
+}
+#owl-two .owl-nav button.owl-next {  
+    right: -15px; 
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+    font-size: 15px;
+}
+.our_advantage{
+  text-align: center;
+}
+.Confident {
+  margin-left: 22px;
+}
+.Confident h3{
+  font-size: 15px;
+  font-weight: 700;
+}
+.Confident p{
+   font-size: 12px;
+}
+.fnt_size{
+  font-size: 12px;
+}
+#self2_ch select{
+   margin-top: 5px;
+}
+.call-back_button{
+  margin-top: 2px;
+}
+.powerd{
+  font-size: 10px;
+  margin-left: 0px;
+}
+.copyright {
+    margin-left: 24px;
+    font-size: 10px;
+}
+#banner .frm {
+    margin: 20px 20px;
+}
+#owl-two .client_text {
+    padding: 1px 0px;
+}
+#owl-two .col-md-12{
+  padding:0px;
+}
+.owl-carousel .owl-nav button.owl-next {
+  right: -30px; 
+}
+.owl-carousel .owl-nav button.owl-prev {
+ left: -31px;   
+}
+#self2_ch {
+    padding: 20px 15px;
+}
+#self2_ch input[type=text]{
+  margin-top: 5px;
+}
+#self2_ch input[type=text], select{
+  width: 100%;
+}
+.call-back_button {
+    margin-top:5px;
+    width: 100%;
+}
+.sub_btn input {
+  width: 100%;
+}
+.button_grup {
+    margin-bottom: 40px;
+    display: flex;
+}
+/* ********about us ***********/
+.legalution_prg{
+  font-size: 14px;
+  text-align: justify;
+}
+ 
+.our-unique_team {
+    
+    font-size: 25px;
+}
+.diverse_People{
+  padding: 0;
+}
+.diverse_People h2 {
+    font-size: 17px;
+}
+.diverse_People p{
+    font-size: 10px;
+    text-align: justify; 
+}
+
+.ideology{
+  margin:0;
+  padding-bottom: 25px;
+}
+
+.ideology p {
+    text-align: justify; 
+    font-size: 12px;
+}
+
+.ideology_img{
+  max-width: 100%;
+}
+.greatest_idea blockquote h3{
+  font-size: 19px;
+}
+
+.our_mission {
+    padding: 0; 
+    text-align: center;
+}
+.we_help h4{
+  /* text-align: center; */
+  font-size: 17px;
+}
+.we_help p{
+   text-align: justify;
+   font-size: 10px;
+}
+
+.making_it blockquote h3 {
+    font-size: 14px;
+}
+.pad_none{
+  padding-bottom: 0;
+}
+.icon_center{
+ font-size: 34px;
+}
+.font_size{
+  font-size: 14px;
+}
+.prg_font{
+  font-size: 10px;
+}
+.contact{
+ padding-top: 0;
+}
+.support_team{
+  font-size: 14px;
+}
+#footer {
+  padding-left: 0;
+}
+.sub_footer {
+    padding-left: 0;
+}
+.our-valued_customer h3, .technicals h3, .greatest_idea h3, .making_it h3{
+  font-size: 12px;
+}
+/* ********concom ***********/
+#self3_ch {
+    padding: 20px 15px;
+}
+#self3_ch input[type=text], select{
+    width: 100%;
+    margin-top: 5px;
+}
+#self3_ch input[type=text]{
+    margin-top: 5px;
+}
+.call-back_button {
+    margin-top: 5px;
+    width: 100%;
+}
+.card-deck{
+  flex-flow: column;
+}
+.card_margin{
+  margin-top: 40px;
+}
+.from_width {
+    width: 65%;
+    margin-bottom: 30px;
+}
+.btn_width{
+ width: 100%;
+}
+.you_pay{
+  
+  margin-bottom: 20px;
+}
+.card_margin-top{
+  margin-top: 40px;
+}
+.gst_banner{
+  font-size: 12px;
+}
+.gst_banner-text {
+    font-size: 17px;
+}
+.make_smooth{
+  font-size: 12px;
+}
+.concom_img-width{
+ /* max-width: 100%; */
+}
+.text-center .col-3 {
+      flex: 0 0 49%;
+      max-width: 50%;
+}
+.concom_img-width {
+    /* max-width: 100%; */
+    height: 50%;
+}
+.your_trusted h3{
+  font-size: 24px;
+}
+.resolve_your h3 {
+    font-size: 19px;
+}
+.resolve_your small {
+    font-size: 10px;
+}
+.Payment_detail h5{
+  font-size: 17px;
+}
+.your_Payment{
+  font-size: 27px;
+}
+#banner h2{
+  font-size: 25px;
+}
+.buy_digital {
+    font-size: 23px;
+}
+.gst_reg h2 , .pan{
+font-size: 20px;
+}
+.file_complaints h2{
+font-size: 24px;
+}
+.file_complaints h3{
+font-size: 20px;
+}
+.frequently{
+  font-size: 23px;
+}
+.udyoug_aadhaar , .why_choose-1 , .adhaar_bg h2{ 
+ font-size: 23px;
+}
+
+
+.main-box {
+    margin-bottom: 30px;
+}
+
+
+.total_cased h4, .total_cased h6, .micro_enterprises h4, 
+.micro_enterprises h6, .small_enterprises h4, .small_enterprises h6, .medium_enterprises h4, .medium_enterprises h6{
+    font-size: 24px;
+}
+.sticky .navbar-brand img {
+    margin-left: 15px;
+}
+.our_approach h3{
+  text-align: center;
+}
+.our_approach p{
+  text-align: justify;
+}
+.about_online{
+  text-align: center;
+}
+.about_rtiap h5{
+  text-align: center;
+  font-size: 16px;
+}
+.about_rtiap p{
+  text-align: justify;
+}
+.basic_bacground {
+    width: 22%;
+}
+/* ============ */
+.egalution-banner-section {
+  display: block;
+  text-align: center;
+}
+.carousel-inner .car_text {
+  min-height: auto;
+  margin-top: 0px;
+  padding-left: 0px;
+  text-align: left;
+  max-width: 213px;
+  width: 100%;
+  margin: 0 auto;
+}
+.egalution-banner-section img.egalution-bannerimg {
+  max-width: 200px;
+  margin:20px 0px 15px;
+}
+/* ================== 22-8-20 ====================*/
+ /* ********td-mark ***********/
+ .td-mark-rg_form{
+  padding-top: 40px;
+ }
+ .td-mark_btn {
+    width: 100%;
+}
+.td-mark-rg_head {
+    flex-direction: column;
+}
+.td-mark-rg_title h2{
+    text-align: center;
+    padding-top: 12px;
+    font-size: 18px;
+}
+.td-mark_price {
+    position: relative;
+    text-align: center;
+}
+.td-mark-rg_head .img-holder{
+   margin: 0 auto;
+   order: 1;
+   width:100%;
+}
+.tab-menu ul li a {
+    padding: 5px 13px;
+    font-size: 14px;
+}
+.procedure-td-mark_img {
+    transform: rotate(0deg);
+    margin-top: 0;
+}
+.procedure-td-mark_img img {
+    max-width: 100%;
+}
+.td-mark_document-outter {
+    padding: 63px 0;
+}
+.procedure-td-mark_list {
+    padding: 32px 0;
+}
+.td-mark_document p {
+    text-align: justify;
+    font-size: 12px;
+}
+.td-mark_document h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.benefit-td-mark_head h2 {
+    font-size: 21px;
+}
+.benefit-td-mark_list-1 h3{
+    text-align: center;
+}
+.benefit-td-mark_list-1 p {
+    font-size: 12px;
+    text-align: center;
+}
+.procedure-td-mark_head h2 {
+    font-size: 18px;
+}
+.procedure-td-mark_list-1 h3{
+   text-align: center;
+   font-size: 15px;
+}
+.procedure-td-mark_list-1 p{
+  text-align: center;
+  font-size: 12px;
+}
+.wht-can-reg-td-mark_head h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.wht-can-reg-td-mark_item h3 {
+    text-align: center;
+}
+.wht-can-reg-td-mark_item p{
+  font-size: 12px;
+  text-align: center;
+}
+.exp-td-mark-class_head h2 {
+    font-size: 19px;
+}
+.resposv_symbol {
+    display:  flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.left_bodr{
+  border-left: 0;
+}
+.fees-td-mark-bg{
+  height: 100px;
+}
+.basic_bacground h4 {
+    font-size: 23px;
+    line-height: 1;
+}
+.m-t{
+  margin-top: 10px;
+}
+.tab-menu ul{
+  /* justify-content: space-around; */
+}
+.exp-td-mark-class_list-box {
+    width: 150px;
+    height: 150px;
+}
+.exp-td-mark-class_list-box p {
+    font-size: 12px;
+}
+.bg-steel .card-body .fees-td:hover {
+     transform: none;
+   
+}
+.benifits-why_legalution h2{
+  font-size: 19px;
+}
+.procedure-td-mark_list-1{
+  flex-direction: column;
+}
+.procedure-td-mark_img-holder{
+   margin: 0 auto;
+}
+.procedure-td-mark_img-holder {
+    max-width: 37px;
+}
+.td-mark-item_img-holder{
+  margin: 0 auto 10px;
+}
+.wht-can-reg-td-mark_item{
+  flex-direction: column;
+}
+/******* fssai *********/
+.fssai_img{
+  margin-top: 10px;
+}
+.highlight-sec{
+  text-align: center;
+}
+.from-item-1 .form-control {
+    width: 100%;
+}
+.confusd_frm {
+    max-width: 100%;
+}
+.pane22-head h3{
+  font-size: 23px;
+}
+.apeda-reg-process_1 , .apeda-reg-process_3{
+    justify-content: center;
+}
+.prm-fees{
+  transform: none;
+}
+.fees:hover {
+    transform: none;
+}
+.iec-img{
+  order: 1;
+}
+.iec-rg_head .img-holder img {
+    width: 100%;   
+}
+.ice_img {
+    margin-top: 15px;
+    height: 100%;
+    /* text-align: center; */
+}
+.iec-rg_head{
+  flex-direction: column;
+  align-items: center;
+}
+.iec-req-p p{
+  font-size: 14px;
+}
+.iso-document_requd {
+    padding: 0;
+}
+.fssai_from-box {
+    padding: 30px 20px;
+}
+#siteseal{
+  margin: 0 auto;
+}
+.our-associated h3 {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+}
+#owl-four{
+  margin-bottom: 0;
+  height: 100%;
+}
+}
+
+@media only screen and (max-width: 667px){
+
+
+.whatapps {
+    margin-top: -9px;
+    position: absolute;
+    margin-left: -23px;
+}
+
+
+
+#top-header .col-sm-4 {
+ /*  width: 50%; */
+} 
+
+#top-header .col-md-4 {
+  /* width: 75%; */
+} 
+
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 575px){
+ .sticky .navbar-brand {
+    display: flex;
+    flex-grow: 0;
+}
+.sticky .navbar-toggler{
+  margin-left: 171px;
+}
+.t-s{
+  margin-right: 0;
+}
+  .gst_contant h4 {
+    font-size: 20px;
+    font-weight: 500;
+}
+  .gst_contant h5 {
+    padding-left: 0;
+    font-size: 19px;
+}
+  .gst_contant p {
+    padding-left: 0;
+}
+.gst_contant ul{
+    margin-left: 29px;
+}
+.gst_contant .m-lft{
+   margin-left: 29px;
+}
+  .carousel {
+    padding-top: 20px;
+}
+  .carousel-inner .car_text{
+    position: static;
+    background-color: #dadee1;
+    min-height: 220px;
+}
+.car_text ul li span{
+  margin-bottom: 5px;
+}
+  .car_text h1 {
+    padding-top: 10px;
+    padding-left: 0px;
+}
+
+.car_text h5 {
+    font-size: 14px;
+    padding-left: 0px;
+}
+.car_text ul {
+    margin-left: 0px;
+    padding-bottom: 10px;
+}
+.car_text p {
+    font-size: 11px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+.car_text .on_rt {
+    text-align: center;
+    padding-left: 0;
+}
+.egalution-banner-section img.egalution-bannerimg {
+  max-width: 280px;
+  margin: 20px 0px 5px;
+}
+.on_rt-img {
+    width: auto;
+    text-align: center;
+}
+
+  #topband {
+    background-color: #000;
+    height: 100%;
+}
+ .gst_btn{
+   max-width: 75%;
+  }
+  .basic_bacground {
+    width: 24%;
+}
+.bg-steel .card-body:hover{
+  transform:none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+  .basic_bacground h4 i { 
+    top: -15px; 
+
+}
+  .bg-steel {
+    padding: 20px 15px;
+}
+#cnt p{
+  font-size: 12px;
+}
+.accordion-1{
+  font-size: 11px;
+}
+.our_approach h3{
+  text-align: center;
+}
+.our_approach p{
+  text-align: justify;
+}
+.about_online{
+  text-align: center;
+}
+.about_rtiap h5{
+  text-align: center;
+}
+.about_rtiap p{
+  text-align: justify;
+}
+#topmenu{
+  font-size: 14px;
+  }
+#topmenu li{
+  float: none;
+    text-align: center;
+}
+#topmenu li a span{
+  display: none;
+}
+.color_change {
+    color: #fff;
+    margin: 1px 0px;
+}
+.phone {
+    text-align: center;
+}
+
+.english {
+    /* text-align: right; */
+    padding: 3px 0px 10px 0px !important;
+    float: none;
+    margin: 0 0 !important;
+}
+.logo{
+  text-align: left;
+}
+ 
+.adv_logo{
+  width: 100%;
+    text-align: center;
+}
+.Confident {
+  text-align: center;
+  margin-left: 0px;
+}
+.we_are{
+  text-align: center;
+}
+.fnt_size{
+  text-align: center;
+}
+ .we-are_button{
+  margin: 0 auto;
+}
+#banner .frm {
+    margin: 20px 20px;
+}
+
+#self2_ch select {
+    width: 100%;
+}
+.call-back_button {
+    margin-top:5px;
+    width: 100%;
+}
+#footer ul{
+  width: 100%;
+  text-align: center;
+  list-style: none;
+  padding: 0px;
+}
+#footer .col{
+  flex-basis: auto !important;
+}
+.powerd{
+    text-align: center;
+}
+.copyright{
+    text-align: center;
+    margin-left: 0;
+}
+.owl-carousel .owl-nav button.owl-next {
+   /*  right: -1px; */
+}
+.owl-carousel .owl-nav button.owl-prev {
+    /* left: -2px; */
+}
+#owl-two .col-md-12 {
+    padding: 0px 15px;
+}
+
+.navbar{
+  padding: 15px 15px;
+}
+.navbar-nav {
+    /* margin-top: 15px; */
+}
+nav ul li {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #156e96;
+    border-right: 1px solid transparent;
+    border-left: 1px solid transparent;
+}
+nav ul li .dropdown-menu>a { 
+    text-align: center;
+}
+.dropdown-menu{
+   border: 0px;
+}
+.dropdown-item:hover {
+    color: #ffffff;
+}
+#self2_ch {
+    padding: 20px 15px;
+}
+#self2_ch input[type=text]{
+  margin-top: 5px;
+}
+#self2_ch input[type=text], select{
+  width: 100%;
+}
+.sub_btn input {
+  width: 100%;
+}
+.button_grup {
+    margin-bottom: 40px;
+    /* display: inline-block; */
+    margin: 0 auto;
+}
+.english {
+    /* text-align: right; */
+    padding: 0px 0px 10px 0px;
+    float: none;
+    margin-left: 141px;
+}
+.navbar-toggler{
+  margin: 26px 17px 15px 4px;
+  margin-top: 18px;
+}
+.navbar-collapse{
+ /* height: 268px; */
+  position: absolute;
+  width: 100%;
+  z-index: 9999;
+  background: #064ea3;
+  top: 40px;
+  margin-top: 32px;
+}
+.navbar {
+  padding: 0 ;
+}
+.pad a img {
+    width: 60%;
+}
+
+
+
+
+/* ********about us ***********/
+.legalution_prg{
+  font-size: 14px;
+  text-align: justify;
+}
+ .our-valued_customer{
+  text-align: center;
+  margin-left: 0;
+ }
+ .our-valued_customer blockquote h3:before { 
+   left: 0.5em;  
+    
+} 
+.our-valued_customer blockquote , .technicals blockquote , .greatest_idea blockquote , .making_it blockquote {
+     margin-left: 0; 
+}
+.our-unique_team {
+    text-align: center;
+    font-size: 21px;
+}
+.diverse_People {
+    padding: 40px 0px;
+}
+.diverse_People h2 {
+    font-size: 18px;
+    text-align: center;
+    padding: 0px 11px;
+    padding-bottom: 18px;
+}
+.diverse_People p{
+    padding: 0px 11px;
+    text-align: justify;
+}
+.technicals{
+    text-align: center;
+    margin-left: 0;
+}
+.technicals blockquote h3:before { 
+  left: 0.5em;
+} 
+.ideology{
+  margin:0;
+  padding-bottom: 25px;
+}
+.ideology h2 {
+    text-align: center;
+}
+.ideology p {
+    text-align: justify;
+}
+.ideology .greatest_idea{
+  text-align: center;
+  margin-left: 0;
+  
+}
+.greatest_idea blockquote h3{
+  /* font-size: 19px; */
+}
+.greatest_idea blockquote h3:before { 
+    left: 0.5em;
+} 
+.our_mission {
+    padding: 0; 
+    text-align: center;
+    font-size: 28px;
+}
+.we_help h4{
+  text-align: center;
+}
+.we_help p{
+   text-align: justify;
+}
+.we_help .making_it {
+   text-align: center;
+   margin-left: 0;
+    
+}
+.making_it blockquote h3:before{ 
+    left: -19px;
+} 
+.making_it blockquote h3 {
+    /* font-size: 18px; */
+}
+.pad_none{
+  padding-bottom: 0;
+}
+.icon_center{
+  text-align: center;
+  width: 100%;
+  padding-bottom: 1.25rem;
+}
+.font_size{
+  text-align: center;
+}
+.prg_font{
+  text-align: center;
+}
+.contact{
+ padding-top: 0;
+ font-size: 28px;
+}
+.support_team{
+  text-align: center;
+}
+.support_team h2 ,.support_team h3{
+  font-size: 24px;
+}
+#footer {
+  padding-left: 0px; 
+}
+.sub_footer {
+    padding-left: 0;
+}
+.legalution_Story {
+    font-size: 21px;
+}
+/* ********concom ***********/
+#self3_ch {
+    padding: 20px 15px;
+}
+#self3_ch input[type=text], select {
+    width: 100%;
+    margin-top: 5px;
+}
+#self3_ch input[type=text] {
+    margin-top: 5px;
+}
+.call-back_button {
+    margin-top: 5px;
+    width: 100%;
+}
+h5 u{
+  text-align: center;
+}
+.from_width{
+ width: 76%;
+}
+.font_size{
+  font-size: 16px;
+}
+.you_pay{
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.btn_width{
+ width: 100%;
+}
+.card_margin-top{
+  margin-top: 40px;
+}
+.gst_banner-text {
+    font-size: 21px;
+    text-align: center;
+}
+.make_smooth{
+  text-align: center;
+}
+.we_offer ul{
+  list-style: none;
+}
+.gst_btn-grp {
+  text-align: center;
+}
+
+.text-center .col-3 {
+ flex: 0 0 49%;
+ max-width: 50%;
+}
+.concom_img-width {
+    
+ height: 50%;
+}
+.your_trusted h3 {
+    font-size: 17px;
+}
+.resolve_your h3 {
+    font-size: 19px;
+}
+.resolve_your small {
+    /* padding: 40px 0px; */
+    font-size: 10px;
+}
+.price_center{
+  text-align: center;
+  font-size: 13px;
+}
+.input_position{
+  position: relative;
+}
+.Payment_detail h5{
+  font-size: 15px;
+}
+.your_Payment{
+  font-size: 23px;
+}
+
+#banner h2 {
+    font-size: 17px;
+}
+.buy_digital {
+    font-size: 17px;
+}
+.gst_reg h2 , .pan{
+font-size: 20px;
+}
+.file_complaints h2 , .file_complaints h3{
+font-size: 20px;
+}
+.frequently{
+  font-size: 23px;
+}
+.udyoug_aadhaar , .why_choose-1 , .adhaar_bg h2{  
+ font-size: 23px;
+}
+.adhaar_bg p{
+ font-size: 12px;
+ }
+ .benefit_item h5 {
+ font-size: 17px;
+}
+.faq{
+  padding: 0px 15px;
+}
+.our_text ,.about_online {
+  font-size: 23px;
+}
+.why_Consumer , .our_number , .legalution_resolve{
+  font-size: 23px;
+}
+#rtiappfee{
+  margin-top: 40px;
+  width: 100% !important;
+}
+.dsc_pad{
+  padding: 0px 15px;
+}
+.btn-link {
+    font-size: 11px;
+}
+.sticky .navbar-brand img {
+    margin-left: 15px;
+    /* margin-top: 16px; */
+}
+.whatapps {
+    margin-top: -37px;
+    position: absolute;
+    left: 0px;
+}
+.sear-main-box {
+    top: 3px;
+    left: 267px;
+    display: none;
+    position: relative;
+    width: 187px;
+}
+
+.egalution-banner-section {
+  padding-left: 0px;
+}
+.carousel-inner {
+  height: auto;
+}
+.iso-banner_form {
+    justify-content: center;
+}
+#owl-four .owl-nav {
+    display: block;
+    width: 0;
+    top: 0;
+    position: relative;
+    margin: auto;
+}
+#owl-five .owl-nav {
+    display: block;
+    width: 0;
+    top: 0;
+    position: relative;
+    margin: auto;
+}
+.our-associated h3 {
+    color: #fff;
+    padding-bottom: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+}
+
+
+@media only screen and (max-width: 530px){ 
+
+.sear-main-box {
+    top: 3px;
+    left: 244px;
+    display: none;
+    position: relative;
+    width: 137px;
+}
+
+}
+
+@media only screen and (max-width: 480px){ 
+
+.sear-main-box {
+    top: 3px;
+    left: 244px;
+    display: none;
+    position: relative;
+    width: 137px;
+}
+
+}
+
+
+
+@media only screen and (max-width: 414px){ 
+
+.text-center .col-3 {
+    /*   flex: 0 0 49%;
+    max-width: 50%; */
+}
+.concom_img-width {
+    /* max-width: 100%; */
+    /* height: 50%; */
+}
+.basic_bacground {
+    width: 30%;
+}
+.whatapps {
+    margin-top: -38px;
+    margin-left: -20px;
+    position: absolute;
+}
+.sear-main-box {
+    top: 3px;
+    left: 180px;
+    display: none;
+    position: relative;
+    width: 174px;
+}
+/* ================== 22-8-20 ====================*/
+ /* ********td-mark ***********/
+ .ice-whn-code h2 {
+    font-size: 25px;
+}
+ .td-mark-rg_form{
+  padding-top: 40px;
+ }
+ .td-mark_btn {
+    width: 100%;
+}
+.td-mark-rg_head {
+    flex-direction: column;
+}
+.td-mark-rg_title h2{
+    text-align: center;
+    padding-top: 12px;
+    font-size: 18px;
+}
+.td-mark_price {
+    position: relative;
+    text-align: center;
+}
+.td-mark-rg_head .img-holder{
+   margin: 0 auto;
+   order: 1;
+}
+.tab-menu ul li a {
+    padding: 5px 13px;
+    font-size: 14px;
+}
+.procedure-td-mark_img {
+    transform: rotate(0deg);
+    margin-top: 0;
+}
+.procedure-td-mark_img img {
+    max-width: 100%;
+}
+.td-mark_document-outter {
+    padding: 63px 0;
+}
+.procedure-td-mark_list {
+    padding: 32px 0;
+}
+.td-mark_document p {
+    text-align: justify;
+    font-size: 12px;
+}
+.td-mark_document h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.benefit-td-mark_head h2 {
+    font-size: 21px;
+}
+.benefit-td-mark_list-1 h3{
+    text-align: center;
+}
+.benefit-td-mark_list-1 p {
+    font-size: 12px;
+    text-align: center;
+}
+.procedure-td-mark_head h2 {
+    font-size: 18px;
+}
+.procedure-td-mark_list-1 h3{
+   text-align: center;
+   font-size: 15px;
+   padding-top: 10px;
+}
+.procedure-td-mark_list-1 p{
+  text-align: center;
+  font-size: 12px;
+}
+.wht-can-reg-td-mark_head h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.wht-can-reg-td-mark_item h3 {
+    text-align: center;
+}
+.wht-can-reg-td-mark_item p{
+  font-size: 12px;
+  text-align: center;
+}
+.exp-td-mark-class_head h2 {
+    font-size: 19px;
+}
+.resposv_symbol {
+    display:  block;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.left_bodr{
+  border-left: 0;
+}
+.fees-td-mark-bg{
+  height: 94px;
+}
+.basic_bacground h4 {
+    font-size: 23px;
+}
+.m-t{
+  margin-top: 10px;
+}
+.procedure-td-mark_list-1{
+  flex-direction: column;
+}
+.procedure-td-mark_img-holder{
+   margin: 0 auto;
+}
+.tab-menu ul {
+    justify-content: space-around;
+}
+.procedure-td-mark_img-holder {
+    max-width: 37px;
+}
+.td-mark-item_img-holder{
+  margin: 0 auto 10px;
+}
+/******* fssai *********/
+.fssai_img{
+  margin-top: 10px;
+}
+.highlight-sec{
+  text-align: center;
+}
+.from-item-1 .form-control {
+    width: 100%;
+}
+.confusd_frm {
+    max-width: 100%;
+}
+.pane22-head h3{
+  font-size: 23px;
+}
+.apeda-reg-process_1 , .apeda-reg-process_3{
+    justify-content: center;
+}
+.prm-fees{
+  transform: none;
+}
+.iso_from {
+    width: 100%;
+}
+.req1 input[type="checkbox"] + label:before {
+    width: 49px;
+}
+.req2 input[type="checkbox"] + label:before {
+    width: 40px;
+}
+.req3 input[type="checkbox"] + label:before {
+    width: 42px;
+}
+}
+@media only screen and (max-width: 380px){
+ .sear-main-box {
+    top: 3px;
+    left: 176px;
+    display: none;
+    position: relative;
+    width: 140px;
+}
+/* ================== 22-8-20 ====================*/
+ /* ********td-mark ***********/
+ .req1 input[type="checkbox"] + label:before {
+    width: 49px;
+}
+.req2 input[type="checkbox"] + label:before {
+    width: 40px;
+}
+.req3 input[type="checkbox"] + label:before {
+    width: 42px;
+}
+ .ice-whn-code h2 {
+    font-size: 25px;
+}
+ .td-mark-rg_form{
+  padding-top: 40px;
+ }
+ .td-mark_btn {
+    width: 100%;
+}
+.td-mark-rg_head {
+    flex-direction: column;
+}
+.td-mark-rg_title h2{
+    text-align: center;
+    padding-top: 12px;
+    font-size: 18px;
+}
+.td-mark_price {
+    position: relative;
+    text-align: center;
+}
+.td-mark-rg_head .img-holder{
+   margin: 0 auto;
+   order: 1;
+}
+.tab-menu ul li a {
+    padding: 5px 13px;
+    font-size: 14px;
+}
+.procedure-td-mark_img {
+    transform: rotate(0deg);
+    margin-top: 0;
+}
+.procedure-td-mark_img img {
+    max-width: 100%;
+}
+.td-mark_document-outter {
+    padding: 63px 0;
+}
+.procedure-td-mark_list {
+    padding: 32px 0;
+}
+.td-mark_document p {
+    text-align: justify;
+    font-size: 12px;
+}
+.td-mark_document h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.benefit-td-mark_head h2 {
+    font-size: 21px;
+}
+.benefit-td-mark_list-1 h3{
+    text-align: center;
+}
+.benefit-td-mark_list-1 p {
+    font-size: 12px;
+    text-align: center;
+}
+.procedure-td-mark_head h2 {
+    font-size: 18px;
+}
+.procedure-td-mark_list-1 h3{
+   text-align: center;
+   font-size: 15px;
+   padding-top: 10px;
+}
+.procedure-td-mark_list-1 p{
+  text-align: center;
+  font-size: 12px;
+}
+.wht-can-reg-td-mark_head h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.wht-can-reg-td-mark_item h3 {
+    text-align: center;
+}
+.wht-can-reg-td-mark_item p{
+  font-size: 12px;
+  text-align: center;
+}
+.exp-td-mark-class_head h2 {
+    font-size: 19px;
+}
+.resposv_symbol {
+    display:  block;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.left_bodr{
+  border-left: 0;
+}
+.fees-td-mark-bg{
+  height: 85px;
+}
+.basic_bacground h4 {
+    font-size: 22px;
+}
+.m-t{
+  margin-top: 10px;
+}
+.procedure-td-mark_list-1{
+  flex-direction: column;
+}
+.procedure-td-mark_img-holder{
+   margin: 0 auto;
+}
+.tab-menu ul {
+    justify-content: space-around;
+}
+.procedure-td-mark_img-holder {
+    max-width: 37px;
+}
+.td-mark-item_img-holder{
+  margin: 0 auto 10px;
+}
+/******* fssai *********/
+.fssai_img{
+  margin-top: 10px;
+}
+.highlight-sec{
+  text-align: center;
+}
+.from-item-1 .form-control {
+    width: 100%;
+}
+.confusd_frm {
+    max-width: 100%;
+}
+.pane22-head h3{
+  font-size: 23px;
+}
+.apeda-reg-process_1 , .apeda-reg-process_3{
+    justify-content: center;
+}
+.prm-fees{
+  transform: none;
+}
+.iso_from {
+    width: 100%;
+}
+
+}
+
+@media only screen and (max-width: 360px){
+ .sear-main-box {
+    top: 3px;
+    left: 164px;
+    display: none;
+    position: relative;
+    width: 116px;
+}
+ .basic_bacground {
+    width: 30%;
+}
+.sticky .navbar-toggler {
+    margin-left: 153px;
+}
+}
+
+
+@media only screen and (max-width: 330px){
+  .basic_bacground {
+    width: 40%;
+}
+.bg-white{
+  padding: 5px 15px !important;
+}
+.sear-main-box {
+    top: 3px;
+    left: 164px;
+    display: none;
+    position: relative;
+    width: 105px;
+}
+}
+
+
+
+@media only screen and (max-width: 320px){
+  .basic_bacground {
+    width: 40%;
+}
+.fees-td-mark-bg {
+    height: 94px;
+}
+.bg-white{
+  padding: 5px 15px !important;
+}
+.sear-main-box {
+    top: 3px;
+    left: 159px;
+    display: none;
+    position: relative;
+    width: 105px;
+}
+.tab-menu ul li a {
+    padding: 5px 22px;
+    
+}
+.tab-menu ul {
+    justify-content: space-between;
+}
+.iso_from {
+    width: 100%;
+}
+.fssai_from-box {
+    padding: 30px 56px;
+}
+.fssai_from-text-head h2 {
+    margin-bottom: 0;
+}
+.tab-menu ul li {
+    width: 100%;
+    text-align: center;
+}
+.from-item-1 {
+    padding-bottom: 18px;
+}
+.from_sec-2 {
+    padding-top: 25px;
+}
+.from_sec-3 {
+    padding-top: 25px;
+}
+.sticky .navbar-toggler {
+    margin-left: 122px;
+} 
+}
